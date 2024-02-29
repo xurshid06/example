@@ -74,6 +74,7 @@ linked2.insert(h, 205)
 linked2.insert(j, 207)
 linked2.insert(k, 209)
 linked2.printList()
+print("linked listda insertni qo'llanilishi")
 
 
 linked_append = LinkedList()
@@ -85,3 +86,4 @@ linked_append.append(303)
 linked_append.append(304)
 linked_append.append(305)
 linked_append.printList()
+print("linked listda appendni qo'llanishi")
